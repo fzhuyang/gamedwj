@@ -12,7 +12,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://appupdate.gamedwj.com/gamedwj.ipa</string>
+<string>https://github.com/fzhuyang/gamedwj/blob/master/gamedwj.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
@@ -24,7 +24,7 @@
 <key>kind</key>
 <string>software</string>
 <key>title</key>
-<string>����һ��ְ�</string>
+<string>´óÍæ¼Ò»¶ÀÖ°æ</string>
 </dict>
 </dict>
 </array>
